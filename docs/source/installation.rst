@@ -36,5 +36,4 @@ From PyPi
 
 .. code-block:: bash
 
-    $ pip install python-amazon-mws
-
+    $ pip install mws
